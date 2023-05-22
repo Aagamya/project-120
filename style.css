@@ -1,0 +1,17 @@
+ #warning{
+ box-shadow:10px 10px 30px rgb(114, 134, 114);
+ width:100%;
+ }
+ #default{
+  width:50%
+ }
+ p,h5{
+  font-size: 20px;
+ }
+ #primary,#info{
+  font-size: 25px;
+  width:20%
+ }
+ body{
+  background-image: url(warning.webp);
+ }
